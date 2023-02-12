@@ -1,0 +1,14 @@
+1.git init (for initialise a git)
+
+2. git clone (repository link of HTTPS is in github)
+
+3. git add filename (it is used only for adding single file)
+  or
+4. git add . (it is used add multiple files in a folder that all are tracked into github)
+
+5. git commit -m " " ('m' is a message of which type of files to send  and here to save the all files into github)
+
+6. git push origin main/master(to push remote github using this command and here choose a which branch you have working)
+
+7. git branch (it is used for to know the branch name)
+
