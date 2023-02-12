@@ -17,3 +17,5 @@
 9. git diff another_branch (to see the difference between branchs and new lines added will be displayed)
 
 10. git branch -d another_branch(to delete the branch)
+
+11. git commit -am "this command using only already exit file has modify then we use this command"
