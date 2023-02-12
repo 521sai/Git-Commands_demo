@@ -28,6 +28,4 @@
 
 15. git reset --hard ""commit code"" (used for removing of last commit)
 
-11. git commit -am " msg" (this command using only already exit file has modify then we use this command)
 
-12. git merge another_branch (merging of branchs after modification)
