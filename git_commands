@@ -13,3 +13,7 @@
 7. git branch (it is used for to know the branch name)
 
 8. git checkout branch (it is used for switch to another branch)
+
+9. git diff another_branch (to see the difference between branchs and new lines added will be displayed)
+
+10. git branch -d another_branch(to delete the branch)
