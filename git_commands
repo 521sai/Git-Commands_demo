@@ -18,7 +18,6 @@
 
 10. git branch -d another_branch (to delete the branch)
 
-<<<<<<< HEAD
 11. git commit -am "this command using only already exit file has modify then we use this command"
 
 12. git merge another_branch (merging of branchs after modification)
@@ -28,8 +27,6 @@
 14. git reset ""commit code"" (it is copy the last commit msg by [git log] will display)
 
 15. git reset --hard ""commit code"" (used for removing of last commit)
-=======
 11. git commit -am " msg" (this command using only already exit file has modify then we use this command)
 
 12. git merge another_branch (merging of branchs after modification)
->>>>>>> 6052c6f9655be8fd97212d7f37f4e2e88fb958ba
