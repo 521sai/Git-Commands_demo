@@ -10,9 +10,9 @@
 
 6. git push origin main/master(to push remote github using this command and here choose a which branch you have working)
 
-7. git branch (it is used for to know the branch name)
+7. git branch (it is used for to know the branchs what are exist)
 
-8. git checkout branch (it is used for switch to another branch)
+8. git checkout branchName (it is used for switch to another branch)
 
 9. git diff another_branch (to see the difference between branchs and new lines added will be displayed)
 
@@ -27,5 +27,9 @@
 14. git reset ""commit code"" (it is copy the last commit msg by [git log] will display)
 
 15. git reset --hard ""commit code"" (used for removing of last commit)
+
+16. git branch branchName (create a new branch)
+
+17. git pull
 
 
